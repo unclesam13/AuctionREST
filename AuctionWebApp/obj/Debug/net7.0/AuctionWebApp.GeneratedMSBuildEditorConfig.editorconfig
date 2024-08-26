@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AuctionWebApp
+build_property.RootNamespace = AuctionWebApp
+build_property.ProjectDir = D:\DowloadsD\University\Programming\REST_repos\OnlineAuctionSolution\AuctionWebApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\DowloadsD\University\Programming\REST_repos\OnlineAuctionSolution\AuctionWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/DowloadsD/University/Programming/REST_repos/OnlineAuctionSolution/AuctionWebApp/Pages/AuctionItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXVjdGlvbkl0ZW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DowloadsD/University/Programming/REST_repos/OnlineAuctionSolution/AuctionWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DowloadsD/University/Programming/REST_repos/OnlineAuctionSolution/AuctionWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DowloadsD/University/Programming/REST_repos/OnlineAuctionSolution/AuctionWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DowloadsD/University/Programming/REST_repos/OnlineAuctionSolution/AuctionWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
